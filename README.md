@@ -1,4 +1,4 @@
-# Developer Guide: macOS
+# 👨‍💻 Developer Guide: macOS
 
 The following list summarizes some of the relevant tools for developers on macOS.
 
