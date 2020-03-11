@@ -1,0 +1,18 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateStructureToolWindow" />
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta alt divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta divide" />
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+</keymap>

@@ -1,0 +1,7 @@
+BashSupport
+Key Promoter X
+Lombook Plugin
+PlantUML integration
+com.chrisrm.idea.MaterialThemeUI
+some.awesome
+wu.seal.tool.jsontokotlin
