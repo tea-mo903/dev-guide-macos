@@ -9,7 +9,7 @@ The following list summarizes some of the relevant tools for developers on macOS
 | Powerlevel10k | Terminal Theme | https://github.com/romkatv/powerlevel10k |
 | Zsh Autosuggestions | Terminal Extension | https://github.com/zsh-users/zsh-autosuggestions |
 | VSCode | IDE | https://code.visualstudio.com/download |
-| IntelliJ | IDE | https://www.jetbrains.com/de-de/idea/download/#section=mac |
+| [IntelliJ](#intellij-settings) | IDE | https://www.jetbrains.com/de-de/idea/download/#section=mac |
 | Firefox | Browser | https://www.mozilla.org/de/firefox/download/thanks/ |
 | Postman | REST Client | https://www.postman.com/downloads/ |
 | Spotify | Music (dont get bored) | https://www.spotify.com/de/download/mac/ |
@@ -23,7 +23,9 @@ The following list summarizes some of the relevant tools for developers on macOS
 | Flutter | Hybrid App Framework | https://flutter.dev/docs/get-started/install |
 | Node.js | JavaScript Framework | https://nodejs.org/en/download/ |
 
-## IntelliJ Settings
+## Custom Setup
+
+### IntelliJ Settings
 
 Run following commands to zip the settings and after that import them `File > Import Settings...`
 
