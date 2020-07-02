@@ -25,7 +25,7 @@ The following list summarizes some of the relevant tools for developers on macOS
 
 ## Setup your Mac with ease
 
-While setting up a sparkling fresh Mac can be of course a lot of fun, it is somtimes required to get started real fast. In order to speed up the transformation from a freshly installed Mac to a fully setup developer machine, you can utilize the following [dotfiles](https://github.com/timoknapp/dotfiles#install). After the installation is done, dont forget about the [post-installation](https://github.com/timoknapp/dotfiles#post-install). When both is done you will have properly setup Mac with all tools you need to get coding started. If you want to review the tools which are part of the setup go [here (brew)](https://github.com/timoknapp/dotfiles/blob/master/install/Brewfile) and [here (brew cask)](https://github.com/timoknapp/dotfiles/blob/master/install/Caskfile).
+While setting up a sparkling fresh Mac can be of course a lot of fun, it is somtimes required to get started real fast. In order to speed up the transformation from a freshly installed Mac to a fully setup developer machine, you can utilize the following [dotfiles](https://github.com/timoknapp/dotfiles#install). After the installation is done, dont forget about the [post-installation](https://github.com/timoknapp/dotfiles#post-install). When both is done you will have a properly setup Mac with all tools you need to get coding started. If you want to review the tools which are part of the setup go [here (brew)](https://github.com/timoknapp/dotfiles/blob/master/install/Brewfile) and [here (brew cask)](https://github.com/timoknapp/dotfiles/blob/master/install/Caskfile).
 
 ## Custom Setup
 
